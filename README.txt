@@ -15,3 +15,6 @@ Where:
 
 
 In order to stop the script, just press the key combination: Ctrl + C.
+
+Requirements:
+Python version 3.10.
